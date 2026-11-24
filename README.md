@@ -203,7 +203,3 @@ The Simscape solver reports some numerical messages during the run (small step s
 ## Author
 
 **Mohamed Boudaya** — MSc Mechatronics Engineering, University of Rome "Tor Vergata"
-
-## License
-
-© 2026 Mohamed Boudaya. All rights reserved. This repository is shared for portfolio purposes; please do not copy or reuse the code, model or report without permission.
